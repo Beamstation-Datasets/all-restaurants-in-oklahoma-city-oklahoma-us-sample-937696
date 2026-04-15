@@ -1,0 +1,12 @@
+{
+  "export_job_id": "67f8b9a8-0893-447f-bb5a-479d4577ed20",
+  "id_short": 937696,
+  "published_at": "2026-04-15T07:53:54Z",
+  "repo_name": "all-restaurants-in-oklahoma-city-oklahoma-us-sample-937696",
+  "sample_asset_name": "beamstation_937696_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/937696/beamstation_937696_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_records": 203,
+  "sample_sha256": "e36924a53bf6a3d6f360b383f9afcdd2bb24fd7da2d5003969caa91f8d51d4fe",
+  "sample_size_bytes": 731787,
+  "total_records": 1762
+}
