@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "City-level restaurant data for Oklahoma City, Oklahoma with a population of over 681k. This dataset includes every active restaurant listing filtered by the Restaurants category group, with business profiles, review analytics, competitive rankings, and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Oklahoma City, Oklahoma, US",
-  "export_job_id": "27496e48-512f-4d34-a586-15aa9e4e6566",
+  "export_job_id": "eb3f97a1-a00b-415b-8e45-fceae9c3e5d3",
   "github_org": "Beamstation-Datasets",
   "id_short": 937696,
   "location_name": "Oklahoma City",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-oklahoma-city-oklahoma-us-sample-937696",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/937696/beamstation_937696_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 203,
-  "sample_sha256": "e36924a53bf6a3d6f360b383f9afcdd2bb24fd7da2d5003969caa91f8d51d4fe",
-  "sample_size_bytes": 731787,
-  "total_records": 2031,
-  "updated_at": "2026-04-14T15:58:44.635552+00:00"
+  "sample_records": 125,
+  "sample_sha256": "5c8ebcabbdb96f0114f49c3499712cec73fbb97f2f6ff4663141b62d97244c49",
+  "sample_size_bytes": 433297,
+  "total_records": 1250,
+  "updated_at": "2026-04-21T17:17:40.705561+00:00"
 }
