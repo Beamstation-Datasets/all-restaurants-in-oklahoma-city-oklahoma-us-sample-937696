@@ -1,6 +1,6 @@
 # All Restaurants in Oklahoma City, Oklahoma, US
 
-> Free BeamStation sample export with 208 rows and masked direct-contact fields.
+> Free BeamStation sample export with 224 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `937696` |
 | Location | Oklahoma City |
 | Category | Restaurants |
-| Full dataset size | 2,080 records |
-| Free sample size | 208 records (10.0%) |
-| Last export | 2026-04-28T18:26:04.234920+00:00 |
+| Full dataset size | 2,248 records |
+| Free sample size | 224 records (9.96%) |
+| Last export | 2026-05-07T02:24:29.662836+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-oklahoma-city-oklahoma-us-sample-937696/releases/download/sample-latest/beamstation_937696_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
